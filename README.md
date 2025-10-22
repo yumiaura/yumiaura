@@ -6,6 +6,6 @@ I’ll be happy to get any **feedback** or **code reviews** to help me improve �
 
 ⭐ Feel free to **follow me** — I’d really appreciate your support!<br />
 
-Thank you for visiting my page ❤️
-
 [![cat](images/cat.gif)](https://github.com/yumiaura/mycat)
+
+Thank you for visiting my page ❤️
